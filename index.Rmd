@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "倉田ゼミ：GIS分析の手引き"
+author: "上智大学経済学部　倉田ゼミ"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
